@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header {
+    background-color: aqua;
+    width: 100%;
+    float: left;
+}
+.container{
+   background-color: blueviolet;
+    width: 80%;
+    margin: 0 auto;
+}
+.logo-part{
+    width: 37%;
+    float: left;
+    /* background-color: crimson; */
+}
+.logo-part img{
+    width: 200px;
+    height: 90px;
+}
+.menu-part{
+    width: 50%;
+    float: left;
+    background-color: brown;
+}
+.menu-part nav{
+
+}
+.menu-part nav ul{
+
+}
+.menu-part nav ul li{
+
+}
+.menu-part nav ul li a{
+
+}
+/* .search-part{
+     width: 30%;
+     float: left;
+     background-color: cornsilk;
+} */
+.search-part input{
+
+}
+/* Hero part */
+.hero{
+    width: 100%;
+    float: left;
+}
+.writing-part{
+    width: 50%;
+    float: left;
+}
+img-part{
+    width: 50%;
+    float: left;
+}
+.feature{
+    width: 100%;
+    float: left;
+    background-color: cadetblue;
+}
+.f-writing-part{
+    width: 1oo%;
+    float: :left
+}
+.feature-part{
+    width: 100%;
+    float: left;
+
+}
+.feature-box{
+    width: 33.33%;
+    float: left;
+
+}
